@@ -1,5 +1,2 @@
-# hello-world
-just a test repository//fixed by branch2
-
-//first word in github,so exciting.//fixed by branch2
-
+# my_project
+主要记录平时学习时，练习的代码。
